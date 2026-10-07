@@ -1,0 +1,161 @@
+body{
+background-color: #FFB300;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nope{
+width:500px ;    
+}
+
+
+
+
+
+.eeee{
+display:flex ; 
+justify-content:space-around ;
+align-items:center ;
+flex-wrap:wrap ;
+margin-bottom:10px ;
+}
+
+img{
+ width: 300px;   
+}
+.ffff{
+display: flex; 
+justify-content: center;
+flex-wrap:wrap ;
+gap: 20px;
+}
+.rr{
+text-align:center ;
+}
+h3{
+text-align:center ;    
+}
+.stim{
+width:150px ;    
+}
+.abrakabadra{
+display:flex ;
+align-items:center;
+justify-content:center ;
+}
+.uiai{
+text-align:center;   
+}
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    footer{
+        text-align: center;
+    }
+     
+    nav a{
+        padding:5px ;
+        font-size:25px ;
+        color: blue;
+    text-decoration:none ;   
+    }
+    nav{
+    padding-top:30px;    
+    }
+
+
+
+
+
+
+
+main{
+margin:30px ; 
+ 
+font-size:31px ;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+}
+
+@media(max-width:600px){
+  
+main{
+font-size:15px ;   
+    
+    
+    
+    
+    
+}
+a{
+font-size: 15px;
+}
+
+
+
+.eeee img{
+    
+ width:230px ;   
+    
+}
+
+
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
